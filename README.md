@@ -1,5 +1,3 @@
-# symmetric_encnryptor
-Symmetric Encryption helper with a given salt key value
 # Symmetric Encryptor
 This library is a helper to encrypt any data with Symmetric Encryption Algorithm.
 
